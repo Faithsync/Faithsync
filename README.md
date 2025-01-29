@@ -67,3 +67,17 @@ Hey there! 👋 I'm Ogunbowale Faith, a Cloud Security & DevOps enthusiast, pass
 
 
 [![](https://visitcount.itsvg.in/api?id=Faithsync&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Contact Section -->
+## 📫 *Let's Connect*
+<p align="center">
+  <a href="mailto:Faithogunbowale1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/faith-ogunbowale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
+</p>
+
+---
+
+<p align="center">⚡ Let's build the future together in the cloud! ⚡</p>
+
+
+
