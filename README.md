@@ -14,10 +14,12 @@ Hey there! 👋 I'm Ogunbowale Faith, a Cloud Security & DevOps enthusiast, pass
 - 🖥 Code Crafting: I thrive in Visual Studio Code (VS Code), turning ideas into reality
 - 🐧 Linux Wizardry: I’m all about Linux for system administration and troubleshooting
 - 📊 Monitoring & Performance: With tools like Datadog and Cockpit, I ensure systems stay healthy and performant
+---
 
 ##  Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/faith-ogunbowale)
+---
 
 ## 💻 Tech Stack
 <table align="center">
@@ -34,6 +36,7 @@ Hey there! 👋 I'm Ogunbowale Faith, a Cloud Security & DevOps enthusiast, pass
    <td align="center"><img src="https://img.shields.io/badge/Cockpit-005CA9?style=flat&logoColor=white" alt="Cockpit"/></td>
  </tr>
 </table>
+---
 
  ##  GitHub Stats:
 
@@ -49,11 +52,13 @@ Hey there! 👋 I'm Ogunbowale Faith, a Cloud Security & DevOps enthusiast, pass
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faithsync&layout=compact&theme=dark)
 
+----
 [![](https://visitcount.itsvg.in/api?id=Faithsync&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ##  GitHub Trophies:
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Faithsync&theme=darkhub&margin-w=15&margin-h=15)
+---
 
 
 ###  Top Contributed Repo
