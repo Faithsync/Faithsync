@@ -45,8 +45,21 @@ Hey there! 👋 I'm Ogunbowale Faith, a Cloud Security & DevOps enthusiast, pass
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=/Faithsync&theme=dark&hide_border=false)
 
 
-
 ##  Most Used Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faithsync&layout=compact&theme=dark)
+
+https://visitcount.itsvg.in/api?id=Faithsync&icon=0&color=0)](https://visitcount.itsvg.in
+
+##  GitHub Trophies:
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Faithsync&theme=darkhub&margin-w=15&margin-h=15)
+
+
+###  Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Faithsync&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+----
+[![](https://visitcount.itsvg.in/api?id=Faithsync&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
