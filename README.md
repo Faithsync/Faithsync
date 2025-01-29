@@ -15,3 +15,38 @@ Hey there! 👋 I'm Ogunbowale Faith, a Cloud Security & DevOps enthusiast, pass
 - 🐧 Linux Wizardry: I’m all about Linux for system administration and troubleshooting
 - 📊 Monitoring & Performance: With tools like Datadog and Cockpit, I ensure systems stay healthy and performant
 
+##  Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/faith-ogunbowale)
+
+## 💻 Tech Stack
+<table align="center">
+ <tr>
+   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" alt="Google Cloud"/></td>
+   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" alt="Azure"/></td>
+   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" alt="Terraform"/></td>
+   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" alt="Kubernetes"/></td>
+   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker"/></td>
+   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code"/></td>
+   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/></td>
+   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux"/></td>
+   <td align="center"><img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" alt="Datadog" /></td>
+   <td align="center"><img src="https://img.shields.io/badge/Cockpit-005CA9?style=flat&logoColor=white" alt="Cockpit"/></td>
+ </tr>
+</table>
+
+ ##  GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faithsync&show_icons=true&theme=dark&count_private=true)
+
+
+##  GitHub Streak:
+
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=/Faithsync&theme=dark&hide_border=false)
+
+
+
+##  Most Used Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faithsync&layout=compact&theme=dark)
+---
