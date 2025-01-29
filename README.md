@@ -49,7 +49,7 @@ Hey there! 👋 I'm Ogunbowale Faith, a Cloud Security & DevOps enthusiast, pass
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faithsync&layout=compact&theme=dark)
 
-https://visitcount.itsvg.in/api?id=Faithsync&icon=0&color=0)](https://visitcount.itsvg.in
+[![](https://visitcount.itsvg.in/api?id=Faithsync&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ##  GitHub Trophies:
 
@@ -60,6 +60,5 @@ https://visitcount.itsvg.in/api?id=Faithsync&icon=0&color=0)](https://visitcount
 
 ![](https://github-contributor-stats.vercel.app/api?username=Faithsync&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-----
+
 [![](https://visitcount.itsvg.in/api?id=Faithsync&icon=0&color=0)](https://visitcount.itsvg.in)
----
